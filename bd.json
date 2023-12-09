@@ -1,0 +1,43 @@
+[
+    {
+        "nome": "vitor",
+        "email": "vthor@email.com",
+        "cpf": 11,
+        "endereco": null
+    },
+    {
+        "nome": "bibis",
+        "email": "bbs@email.com",
+        "cpf": 11,
+        "profissao": "dev",
+        "endereco": null
+    },
+    {
+        "nome": "joao",
+        "email": "jo@email.com",
+        "cpf": 13,
+        "profissao": "dev",
+        "endereco": null
+    },
+    {
+        "nome": "pedro",
+        "email": "pedro@email.com",
+        "cpf": 13,
+        "profissao": "engenheiro",
+        "endereco": null
+    },
+    {
+        "nome": "matim",
+        "email": "pedro@email.com",
+        "cpf": 13,
+        "profissao": "engenheiro",
+        "endereco": null
+    },
+    {
+        "nome": "pedro",
+        "email": "pedro@email.com",
+        "cpf": 13,
+        "profissao": "engenheiro",
+        "endereco": null
+    }
+]
